@@ -12,8 +12,9 @@ Jeśli przekazany zostanie typ `Student` to masz zwrócić imię i nazwisko prom
 
 Jeśli przekazany zostanie typ `Professor` ma zostać zwrócona lista studentów, których jest on promotorem.
 
+&nbsp;
 
-PS. Zwróć uwagę, że ta funkcja [Single Responsibility Principle (SRP)](https://pl.wikipedia.org/wiki/Zasada_jednej_odpowiedzialno%C5%9Bci), czyli Zasada Jednej Odpowiedzialności. W projektach, a w szczególności w pracy komercyjnej tak nie rób!
+PS. Zwróć uwagę, że ta funkcja łamie regułę [Single Responsibility Principle (SRP)](https://pl.wikipedia.org/wiki/Zasada_jednej_odpowiedzialno%C5%9Bci), czyli Zasada Jednej Odpowiedzialności. W projektach, a w szczególności w pracy komercyjnej tak nie rób!
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF + wideo, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-ts-typing-basics)*
